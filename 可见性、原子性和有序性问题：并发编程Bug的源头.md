@@ -148,7 +148,8 @@ DRAM     200-400 c  60-120 ns
       }
     }
      ```
-     <img width="1255" height="777" alt="image" src="https://github.com/user-attachments/assets/5cc70fe1-6456-48e6-8f80-32412bf2b8d9" />
+     
+<img width="1255" height="777" alt="image" src="https://github.com/user-attachments/assets/5cc70fe1-6456-48e6-8f80-32412bf2b8d9" />
 
 
 四、一句话总结  
